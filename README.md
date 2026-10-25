@@ -1,10 +1,10 @@
-# EmbedBlocks Studio 安装包
+# EmbededBlocks Studio 安装包
 
-这个仓库只用来发布 EmbedBlocks Studio 的安装包，不包含源代码。
+这个仓库只用来发布 EmbededBlocks Studio 的安装包，不包含源代码。
 
 ## 怎么下载
 
-打开 [Releases 页面](https://github.com/luomuqingyun/embedblocks-studio-releases/releases)，选择版本，在附件里下载需要的安装包。
+打开 [Releases 页面](https://github.com/luomuqingyun/embededblocks-studio-releases/releases)，选择版本，在附件里下载需要的安装包。
 
 ## 怎么核对
 
